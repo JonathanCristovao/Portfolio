@@ -16,7 +16,7 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 
 **Soft skills:** Criatividade, Proatividade, Disciplina, pensamento critico, comunicação, organização e colaboração.
 
-**Hard skills:** Python, R, C++, C#, SQL, Azure , Power BI, Tableau Machine, Learning, Deep Learning.
+**Hard skills:** Python, R, C++, C#, SQL, Azure , Power BI, Tableau, Machine Learning, Deep Learning.
 
 
 **Links:**
