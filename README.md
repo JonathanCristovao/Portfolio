@@ -53,5 +53,5 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 ## Computer vision
 (Coming soon)
 
-## Engineering and requirements engineering, UML
+## Engineering and requirements engineering
 (Coming soon)
