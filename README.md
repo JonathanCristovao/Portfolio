@@ -51,7 +51,8 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 (Coming soon) 
 
 ## Computer vision
-(Coming soon)
+[Techniques for image manipulation with opencv](https://github.com/JonathanCristovao/Computer-Vision-Python-OpenCV)
+
 
 ## Engineering and requirements engineering
 (Coming soon)
