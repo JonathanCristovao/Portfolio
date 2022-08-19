@@ -29,7 +29,7 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 
 ## Data analysis
 
-[Analise de ações Petrobras - Finance] (https://github.com/JonathanCristovao/analise-de-acoes-Petrobras-PETR4.SA)
+[Analise de ações Petrobras - Finance](https://github.com/JonathanCristovao/analise-de-acoes-Petrobras-PETR4.SA)
 
 ## Models in statistical at the R
 (Coming soon)
@@ -56,5 +56,5 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 
 ## Engineering and requirements engineering
 
-[Human Activity Recognition HAR LSTM] (https://github.com/JonathanCristovao/Human-Activity-Recognition-HAR-LSTM)
+[Human Activity Recognition HAR LSTM](https://github.com/JonathanCristovao/Human-Activity-Recognition-HAR-LSTM)
 
