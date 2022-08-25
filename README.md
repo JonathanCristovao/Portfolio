@@ -38,7 +38,7 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 (Coming soon)
 
 ## Machine learning 
-(Coming soon)
+[Santander Customer Transaction Prediction - Finance](https://github.com/JonathanCristovao/Santander-Customer-Transaction-Prediction)
 
 ## Deep learning 
 
