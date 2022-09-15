@@ -40,6 +40,8 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 ## Machine learning 
 [Santander Customer Transaction Prediction - Finance](https://github.com/JonathanCristovao/Santander-Customer-Transaction-Prediction)
 
+[Online Transaction Fraud Detection - Finance](https://github.com/JonathanCristovao/Fraud-Detection)
+
 ## Deep learning 
 
 [Price prediction BitCoin - Finance](https://github.com/JonathanCristovao/Bitcoin-Historical-Data-RNN-LSTM)
