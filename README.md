@@ -55,8 +55,11 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 ## Computer vision
 [Techniques for image manipulation with opencv](https://github.com/JonathanCristovao/Computer-Vision-Python-OpenCV)
 
+[Image classification with Machine Learning](https://github.com/JonathanCristovao/Bootcamp-Unimed-BH-Ciencia-de-Dados-DiO/tree/main/machine-learning)
 
 ## Engineering and requirements engineering
 
 [Human Activity Recognition HAR LSTM](https://github.com/JonathanCristovao/Human-Activity-Recognition-HAR-LSTM)
+
+[Human Activity Recognition HAR (LSTM, GRU, and Simple RNN)](https://github.com/JonathanCristovao/LSTM_GRU_RNN_human-activity-recognition)
 
