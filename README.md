@@ -31,6 +31,10 @@ Sou mestrando em Ciência da Computação pela Universidade Federal de Ouro Pret
 
 [Analise de ações Petrobras - Finance](https://github.com/JonathanCristovao/analise-de-acoes-Petrobras-PETR4.SA)
 
+[Clusterização de consumidores por uso de energia elétrica](https://github.com/JonathanCristovao/clustering-consumers)
+
+
+
 ## Models in statistical at the R
 (Coming soon)
 
