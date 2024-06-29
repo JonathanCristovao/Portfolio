@@ -1,9 +1,9 @@
 ### Data Science portfolio
 
-[![author](https://img.shields.io/badge/author-JonathanCristovao-red.svg)](https://www.linkedin.com/in/jonathan-cristovao/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/badge/R-4.0.3+-Red.svg)](https://www.r-project.org/)[![](https://img.shields.io/badge/SQL-blue.svg)]() [![](https://img.shields.io/badge/SQLite-blue.svg)](https://www.sqlite.org/index.html) [![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Tensorflow-GPU-orange.svg)](https://www.tensorflow.org/install?hl=pt-br) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JonathanCristovao/Portfolio)
+[![author](https://img.shields.io/badge/author-JonathanCristovao-red.svg)](https://www.linkedin.com/in/jonathan-cristovao/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/badge/SQL-blue.svg)]() [![](https://img.shields.io/badge/SQLite-blue.svg)](https://www.sqlite.org/index.html) [![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Tensorflow-GPU-orange.svg)](https://www.tensorflow.org/install?hl=pt-br) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JonathanCristovao/Portfolio)
 
 <p align="center">
-  <img src="banner.jpg" >
+  <img src="assets/banner.jpg" >
 </p>
 
 #### Jonathan Cristovão F da Silva
@@ -17,24 +17,52 @@ Este portfólio apresenta uma variedade de projetos que destacam minhas habilida
 
 **Soft skills:** Criatividade, Proatividade, Disciplina, pensamento critico, comunicação, organização e colaboração.
 
-**Hard skills:** Python, R, C++, C#, SQL, Azure , Power BI, Tableau, Machine Learning, Deep Learning.
+**Hard skills:** Python, C++, C#, SQL, Azure , Power BI, Tableau, Machine Learning, Deep Learning, LLMs.
 
 
-**Links:**
 
 ## Projects:
 
-## Data analysis
+------------
 
-[Analise de ações Petrobras - Finance](https://github.com/JonathanCristovao/analise-de-acoes-Petrobras-PETR4.SA) Exploração e visualização dos dados financeiros das ações da Petrobras.
+<a href="#"><img align="right" width="35" height="35" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<table>
+  <tr>
+    <td width="10%">
+        <h3>Análise e previção das Ações da NVIDIA - Finances</h3>
+        <p><a href="https://github.com/JonathanCristovao/financial-analytics/tree/main/Investments/stock-predict">Código</a></p>
+        <p><a href="https://huggingface.co/spaces/jonathan-cristovao/stock-predict-lstm">Visualização Web</a></p>
+        <p>Exploração e visualização dos dados financeiros das ações da NVIDIA.</p>
+        <p><sup>por <a href="https://github.com/JonathanCristovao">@JonathanCristovao</a></sup></p>
+    </td>
+    <td width="30%">
+        <a href="https://www.youtube.com/watch?v=Bzb7_LGdobs"><img src="assets/stock-predict-img.png"></a>
+        </a>
+    </td>
+  </tr>
+</table>
+
+------------
+
+<a href="#"><img align="right" width="35" height="35" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<table>
+  <tr>
+    <td width="30%">
+        Credit Card Transactions</a></h3><p><a href="https://github.com/JonathanCristovao/financial-analytics/tree/main/Fraud_analysis/transaction_fraud_detection">Code</a></p><p>A web application designed to identify fraudulent activity in credit card transactions using machine learning techniques.</p><p><sup>by <a href="https://github.com/JonathanCristovao">@JonathanCristovao</a></sup></p>
+    </td>
+    <td width="60%">
+        <a href="https://github.com/JonathanCristovao/financial-analytics/tree/main/Fraud_analysis/transaction_fraud_detection"><img #width="656" height="244" src="assets/demo_app_fraud_transaction.gif"></a>
+    </td>
+  </tr>
+</table>
+
+------------
 
 [Clusterização de consumidores por uso de energia elétrica](https://github.com/JonathanCristovao/clustering-consumers) Aplicação de técnicas de clusterização para segmentação de clientes baseado no consumo de energia.
 
 
-## Machine learning 
-[Santander Customer Transaction Prediction - Finance](https://github.com/JonathanCristovao/Santander-Customer-Transaction-Prediction) Modelo de predição para identificar clientes potenciais para campanhas de marketing.
-
-[Online Transaction Fraud Detection - Finance](https://github.com/JonathanCristovao/Fraud-Detection) Desenvolvimento de modelos para detectar fraudes em transações financeiras online.
 
 ## Deep learning 
 
@@ -53,6 +81,6 @@ Este portfólio apresenta uma variedade de projetos que destacam minhas habilida
 
 [HAR com (LSTM, GRU, and Simple RNN)](https://github.com/JonathanCristovao/LSTM_GRU_RNN_human-activity-recognition) Aplicação de diferentes arquiteturas de redes neurais para reconhecimento de atividades humanas.
 
-## Natural language process project -
+## Natural language process
 (Coming soon) 
 
