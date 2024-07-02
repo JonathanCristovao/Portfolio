@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-JonathanCristovao-red.svg)](https://www.linkedin.com/in/jonathan-cristovao/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/badge/SQL-blue.svg)]() [![](https://img.shields.io/badge/SQLite-blue.svg)](https://www.sqlite.org/index.html) [![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Tensorflow-GPU-orange.svg)](https://www.tensorflow.org/install?hl=pt-br) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JonathanCristovao/Portfolio)
 
 <p align="center">
-  <img src="assets/banner.jpg" >
+  <img src="assets/banner.png" >
 </p>
 
 #### Jonathan Cristovão F da Silva
@@ -21,7 +21,7 @@ Este portfólio apresenta uma variedade de projetos que destacam minhas habilida
 
 
 
-## Projects:
+## Projetos:
 
 ------------
 
@@ -30,9 +30,9 @@ Este portfólio apresenta uma variedade de projetos que destacam minhas habilida
 <table>
   <tr>
     <td width="10%">
-        <h3>Análise e previção das Ações da NVIDIA - Finances</h3>
+        <h3>Análise e previsão das Ações da NVIDIA - Finances</h3>
         <p><a href="https://github.com/JonathanCristovao/financial-analytics/tree/main/Investments/stock-predict">Código</a></p>
-        <p><a href="https://huggingface.co/spaces/jonathan-cristovao/stock-predict-lstm">Visualização Web</a></p>
+        <p><a href="https://huggingface.co/spaces/jonathan-cristovao/real-time-stock-forecasting">Visualização Web</a></p>
         <p>Exploração e visualização dos dados financeiros das ações da NVIDIA.</p>
         <p><sup>por <a href="https://github.com/JonathanCristovao">@JonathanCristovao</a></sup></p>
     </td>
